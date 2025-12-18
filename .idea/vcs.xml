@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="VcsDirectoryMappings">
+    <mapping directory="" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/dp-control-room" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/dp-cvep-decoder" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/dp-cvep-speller" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/dp-lsl-recording" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/dp-mockup-streamer" vcs="Git" />
+  </component>
+</project>
